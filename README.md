@@ -17,6 +17,11 @@ The repository is organized into different lessons, each focusing on a specific 
 - **aula_08_colecoes**: Collections (ArrayList, Set, Map)
 - **aula_09_operadores_matematicos**: Mathematical operators
 - **aula_10_lacos_repeticao**: Loops and iterations
+- **aula_11_funcoes**: Creating functions
+- **aula_12_funcoes_anonimas**: Anonymous functions
+- **aula_13_funcoes_ordem_superior**: Higher-order functions
+- **aula_14_funcoes_extesao**: Extension functions
+- **aula_15_funcoes_infix**: Infix functions
 
 ## Purpose
 
