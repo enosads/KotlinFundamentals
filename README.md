@@ -22,6 +22,14 @@ The repository is organized into different lessons, each focusing on a specific 
 - **aula_13_funcoes_ordem_superior**: Higher-order functions
 - **aula_14_funcoes_extesao**: Extension functions
 - **aula_15_funcoes_infix**: Infix functions
+- **aula_16_classes**: Creating classes
+- **aula_17_personalizando_propriedades**: Customizing properties
+- **aula_18_companion_object**: Companion objects
+- **aula_19_classe_aberta**: Open classes
+- **aula_20_classes_de_dados**: Data classes
+- **aula_21_classe_singleton**: Singleton classes
+- **aula_22_classe_aninhada**: Nested classes
+- **aula_23_classes_internas**: Inner classes
 
 ## Purpose
 
