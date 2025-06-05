@@ -30,6 +30,14 @@ The repository is organized into different lessons, each focusing on a specific 
 - **aula_21_classe_singleton**: Singleton classes
 - **aula_22_classe_aninhada**: Nested classes
 - **aula_23_classes_internas**: Inner classes
+- **aula_24_classes_enumeradas**: Enumerated classes
+- **aula_25_classes_abstratas**: Abstract classes
+- **aula_26_interfaces**: Interfaces
+- **aula_27_objetos_anonimos**: Anonymous objects
+- **aula_28_classes_e_interfaces_seladas**: Sealed classes and interfaces
+- **aula_29_genericos**: Generics
+- **aula_30_variancia**: Variance
+- **aula_31_funcao_inline_tipo_reified**: Inline functions and reified types
 
 ## Purpose
 
