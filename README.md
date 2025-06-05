@@ -1,50 +1,45 @@
 # Kotlin Fundamentals
 
-This repository is dedicated to the study of Kotlin programming language. It contains various examples and exercises to help understand the fundamental concepts of Kotlin.
+A collection of examples and exercises covering fundamental Kotlin programming concepts.
 
-## Repository Structure
+## Content
 
-The repository is organized into different lessons, each focusing on a specific aspect of Kotlin:
+The repository is organized by topics:
 
-- **aula_01_mutabilidade_imutabilidade**: Variables and mutability (val vs var)
-- **aula_02_tipos_de_dados**: Data types in Kotlin
-- **aula_03_DetalhesTiposDados**: Details about data types
-- **aula_04_OperadoresLogicos**: Logical operators
-- **aula_05_estruturas_condicionais**: Conditional structures
-- **aula_06_nulos**: Null safety in Kotlin
-- **aula_06_controle_de_excesoes**: Exception handling
-- **aula_07_inicilizacao_tardia**: Late initialization
-- **aula_08_colecoes**: Collections (ArrayList, Set, Map)
-- **aula_09_operadores_matematicos**: Mathematical operators
-- **aula_10_lacos_repeticao**: Loops and iterations
-- **aula_11_funcoes**: Creating functions
-- **aula_12_funcoes_anonimas**: Anonymous functions
-- **aula_13_funcoes_ordem_superior**: Higher-order functions
-- **aula_14_funcoes_extesao**: Extension functions
-- **aula_15_funcoes_infix**: Infix functions
-- **aula_16_classes**: Creating classes
-- **aula_17_personalizando_propriedades**: Customizing properties
-- **aula_18_companion_object**: Companion objects
-- **aula_19_classe_aberta**: Open classes
-- **aula_20_classes_de_dados**: Data classes
-- **aula_21_classe_singleton**: Singleton classes
-- **aula_22_classe_aninhada**: Nested classes
-- **aula_23_classes_internas**: Inner classes
-- **aula_24_classes_enumeradas**: Enumerated classes
-- **aula_25_classes_abstratas**: Abstract classes
-- **aula_26_interfaces**: Interfaces
-- **aula_27_objetos_anonimos**: Anonymous objects
-- **aula_28_classes_e_interfaces_seladas**: Sealed classes and interfaces
-- **aula_29_genericos**: Generics
-- **aula_30_variancia**: Variance
-- **aula_31_funcao_inline_tipo_reified**: Inline functions and reified types
+### Basics
+- Variables and data types (aula_01 to aula_03)
+- Operators and control flow (aula_04 to aula_05)
+- Null safety and exceptions (aula_06)
+- Late initialization (aula_07)
 
-## Purpose
+### Collections and Operations
+- Collections: ArrayList, Set, Map (aula_08)
+- Mathematical operators (aula_09)
+- Loops and iterations (aula_10)
 
-This repository serves as a learning resource for anyone interested in learning Kotlin programming language. The examples provided are simple and focused on demonstrating specific concepts.
+### Functions
+- Basic functions (aula_11)
+- Anonymous functions (aula_12)
+- Higher-order functions (aula_13)
+- Extension and infix functions (aula_14 to aula_15)
 
-## Getting Started
+### Object-Oriented Programming
+- Classes and properties (aula_16 to aula_17)
+- Companion objects (aula_18)
+- Open classes (aula_19)
+- Data classes (aula_20)
+- Singleton pattern (aula_21)
+- Nested and inner classes (aula_22 to aula_23)
+- Enums and abstract classes (aula_24 to aula_25)
+- Interfaces (aula_26)
+- Anonymous objects (aula_27)
+- Sealed classes (aula_28)
 
-To run these examples, you need to have Kotlin installed on your machine. You can clone this repository and open it in an IDE that supports Kotlin, such as IntelliJ IDEA.
+### Advanced Topics
+- Generics (aula_29)
+- Variance (aula_30)
+- Inline functions and reified types (aula_31)
 
-Each Kotlin file can be run independently to see the concept in action.
+## Usage
+
+Clone the repository and open it in IntelliJ IDEA or any Kotlin-compatible IDE. Each file can be run independently to demonstrate specific concepts.
