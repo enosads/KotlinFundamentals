@@ -1,0 +1,30 @@
+DESCRIÇÃO DO DESAFIO 01 - GASOLINA X ETANOL
+
+Neste desafio, você irá ajudar os motoristas a decidirem qual combustível é mais econômico
+abastecer: gasolina ou etanol. A decisão será baseada na razão ideal de 0,7, que indica que
+o etanol é mais vantajoso se o seu preço for até 70% do preço da gasolina.
+
+REQUISITOS
+
+ENTRADA DE DADOS:
+
+O usuário deve poder inserir o preço por litro da gasolina.
+O usuário deve poder inserir o preço por litro do etanol.
+
+PROCESSAMENTO:
+
+A aplicação deve calcular a razão entre o preço do etanol e o preço da gasolina.
+Com base na razão calculada, a aplicação deve determinar qual combustível é mais vantajoso.
+
+SAÍDA DE DADOS:
+
+A aplicação deve exibir qual combustível é mais econômico para o motorista, com base na
+razão ideal de 0,7. Caso a razão seja exatamente 0,7, a aplicação pode informar que ambos
+os combustíveis têm o mesmo custo-benefício.
+
+EXEMPLO DE FUNCIONAMENTO
+
+-  O usuário insere o preço do litro da gasolina: R$ 5,00
+-  O usuário insere o preço do litro do etanol: R$ 3,00
+-  A aplicação calcula a razão: 3,00 / 5,00 = 0,6
+- Como 0,6 é menor que 0,7, a aplicação informa que o etanol é mais econômico.
