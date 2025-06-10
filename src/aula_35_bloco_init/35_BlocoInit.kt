@@ -1,4 +1,4 @@
-package aula_40_bloco_init
+package aula_35_bloco_init
 
 class Pessoa(val nome: String, val idade: Int){
     init {
